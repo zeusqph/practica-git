@@ -1,1 +1,0 @@
-print("Este es un ejemplo de usar git")
